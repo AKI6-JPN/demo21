@@ -1,0 +1,6 @@
+streamlit>=1.28
+gspread
+pandas
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
